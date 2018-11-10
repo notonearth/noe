@@ -4,7 +4,7 @@
 ------
 
 最新版下载地址：
-- [官网下载](https://github.com/notonearth/apks/blob/master/launcher-noe_share-release.apk "官网下载")  
+- [官网下载](https://raw.githubusercontent.com/notonearth/apks/master/launcher-noe_share-release.apk "官网下载")  
 
 
 
