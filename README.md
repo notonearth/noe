@@ -6,7 +6,6 @@
 最新版下载地址：
 - [直接下载](https://github.com/notonearth/apks/blob/master/launcher-noe_share-release.apk "直接下载")  
 
-- [官网下载](https://www.noevpn.co.nz/release.apk "官网下载") 
 
 
 在当前VPN的大环境下，
